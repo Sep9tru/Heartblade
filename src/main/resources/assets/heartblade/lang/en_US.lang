@@ -1,0 +1,239 @@
+
+itemGroup.heartblade=§2§lHEARTBLADE
+
+#诸神之铭
+
+item.flammpfeil.slashblade.named.desireblade.name=「DESIRE」
+
+item.flammpfeil.slashblade.named.dguoblade.name=§4魔剑§9「帝国」
+
+item.flammpfeil.slashblade.named.iceblade.name=§f聚魂大剑§6「§b寒冰§6」
+
+item.flammpfeil.slashblade.named.justiceGun.name=§4「JUSTISE」
+
+item.flammpfeil.slashblade.named.matongcblade.name=§3惊涛宝剑§b「閁统」
+
+item.flammpfeil.slashblade.named.nobleblade.name=§6卓越刀
+
+item.flammpfeil.slashblade.named.xiaochaoblade.name=§6圣晓剑「超越」
+
+item.flammpfeil.slashblade.named.xiaohuangOrArui.name=§e日刀§6「§c晓煌§6」
+
+item.flammpfeil.slashblade.named.yunxingheblade.name=§f云刀§e「§b星河§e」
+
+item.flammpfeil.slashblade.named.ziminblade.name=§8冥刀§a「自然之心」
+
+item.flammpfeil.slashblade.named.Itan.name=§2Itan Mogeko's blade
+
+item.flammpfeil.slashblade.named.SolemnLament.name=§rSOLEMN LAMENT
+
+item.flammpfeil.slashblade.named.keyuanzhang.name=§f柯院长的刀
+
+item.flammpfeil.slashblade.named.shallot.name=§2Hyper shallot[OUTDATED]
+
+item.flammpfeil.slashblade.named.shallotNeo.name=§2Hyper shallot
+
+item.flammpfeil.slashblade.named.yamatoPower.name=§bYAMATOOo![OUTDATED]
+
+item.flammpfeil.slashblade.named.yamatoPowerNeo.name=§bYAMATOOo!!!
+
+item.flammpfeil.slashblade.named.vanity.name=§7§l极夜风暴「虚荣」
+
+item.flammpfeil.slashblade.named.voidSword.name=§bVoid
+
+item.flammpfeil.slashblade.named.mirageEdge.name=§bMirageEdge
+
+item.flammpfeil.slashblade.named.wonderblade.name=WonderBlade X
+
+item.flammpfeil.slashblade.named.maxkimblade.name=§c§l基姆重工
+
+#诸神之意志
+
+slashblade.seffect.name.Breakeverything=§9§lBreakEveryThing
+
+slashblade.seffect.name.charges=§a§lCharges
+
+slashblade.seffect.name.Extremelycold=§1§lExtremely§b§lCold
+
+slashblade.seffect.name.GodsBlade=§6§l神の刄
+
+slashblade.seffect.name.NeverCheat=§4Bro just cheat right now...right?
+
+slashblade.seffect.name.PhysicalAttack=§8§lPowerfulBullet
+
+slashblade.seffect.name.PhysicalAttackS=§8§lPowerfulBullet
+
+slashblade.seffect.name.Remodeling=§f§lETERNAL
+
+slashblade.seffect.name.Sky_9=§f§lSKYS.THE.LIMIT
+
+slashblade.seffect.name.sprint=§e§lSprint
+
+slashblade.seffect.name.maximumDrive=§c§lMaximumDrive
+
+slashblade.seffect.name.strength=§7§lStrength
+
+slashblade.seffect.name.Superme=§6§l"sUpEr mE"
+
+slashblade.seffect.name.Theholylightshines=§e§lTheHolyLightShines!
+
+slashblade.seffect.name.ToRavage=§2§lRavage
+
+slashblade.seffect.name.Yearn=§5§lYearn
+
+slashblade.seffect.name.cordial=§2§l「诚」
+
+slashblade.seffect.name.SolemnLament=SolemnLament
+
+slashblade.seffect.name.VOID=§lVOID
+
+slashblade.seffect.name.VergilShadow=§b§lSlayAll
+
+slashblade.seffect.name.powerLocked=§8PowerLocked
+
+slashblade.seffect.name.void_ek=§bRevealingTheVoid
+
+#诸神之技
+
+flammpfeil.slashblade.specialattack.Slashdimension_Sexy=§bSlashDimension
+
+flammpfeil.slashblade.specialattack.autumnWind=§aAutumnWind
+
+flammpfeil.slashblade.specialattack.CutEnd=§b次元斩§f·§4绝 §7§l[§a§lTEST§7§l]
+
+flammpfeil.slashblade.specialattack.maximumbethyper=§bMaximumbet-Hyper
+#信徒之纸张
+
+tile.wonderReactor.name=Wonder Reactor Core(Nether Star Debris)
+
+tile.wonderReactor_Neo.name=Wonder Reactor Core
+
+item.whiteButterfly.name=White Butterfly Specimen
+
+#古老回音
+
+item.oldrecord.name=怀旧唱片
+
+item.record.Old.desc=幼女幻奏 - Sing, R. Sing! (シンクレア民族音楽工房)
+
+item.oldrecord2.name=怀旧唱片
+
+item.record.Old2.desc=放課後 - 渡辺 剛 (わたなべ たけし)
+
+item.chaosrecord.name=混沌唱片
+
+item.record.Hopes And Dreams.desc=Hopes And Dreams - Toby Fox
+
+item.corruptrecord.name=腐化的唱片
+
+item.record.Corrupt.desc=あの日タイムマシン - Long Shot Party (ロング・ショット・パーティー)
+
+item.dustyrecord.name=积灰的唱片
+
+item.record.Please Dont Go.desc=Please Don't Go - Joel Adams
+
+item.icedrecord.name=冰蓝唱片
+
+item.record.Ice.desc=明日へのキズナ - HIMEKA (ヒメカ)
+
+item.nullrecord.name=日落唱片
+
+item.record.Shine (Original Mix).desc=Shine (Original Mix) - Spektrem
+
+item.orangerecord.name=橙色唱片
+
+item.record.Letter That Writing in the Wind.desc=Letter That Writing in the Wind - July (줄라이)
+
+item.oursrecord.name=我们的唱片
+
+item.record.SweetTrack.desc=Sweet Track - やなぎなぎ (柳凪)
+
+item.precord.name=工程文件
+
+item.record.Take a Walk [A Cappella].desc=Take a Walk [A Cappella] - AaronicStuff
+
+item.precord2.name=工程文件
+
+item.record.Feathers.desc=Feathers - Archie
+
+#诸神幻影
+
+item.flammpfeil.slashblade.named.phantomOfGods.name=§7§n§m诸神幻影
+
+slashblade.seffect.name.DarkPower=FORCE.OF.THE.DARK
+
+enchantment.level.13=§8「§7失落级§8」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.phantomOfGods=§8OUR TIME IS OVER
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.phantomOfGods.desc=§7传说，有一位为守护记忆的骑士...
+
+#诸神的话语
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.desireblade=§5生...生死...制欲...
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.desireblade.desc=Got a slashblade「DESIRE」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.dguoblade=§lCYBERPUNK2013
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.dguoblade.desc=Got a slashblade §4魔剑§9「帝国」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.iceblade=§8May we all no longer be sad
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.iceblade.desc=Got a slashblade §1§lExtremely§b§lCold
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.justiceGun=§4Tears of blood
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.justiceGun.desc=Got a slashblade §4「JUSTISE」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.matongcblade=§9Unbeatable TOILET!!!
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.matongcblade.desc=Got a slashblade §3惊涛宝剑§b「閁统」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.nobleblade=Time-travelling
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.nobleblade.desc=Got a slashblade §6卓越刀
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.xiaochaoblade=§6弘扬不科学游戏观，坚持无节操解说一百年
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.xiaochaoblade.desc=Got a slashblade §6圣晓剑「超越」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.xiaohuangOrArui=§8We will still wait for you
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.xiaohuangOrArui.desc=获得拔刀 §e日刀§6「§c晓煌§6」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.yunxingheblade=§e「此生 无悔 圣光」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.yunxingheblade.desc=Got a slashblade §f云刀§e「§b星河§e」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.ziminblade=§aProtect the earth!
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.ziminblade.desc=Got a slashblade §8冥刀§a「自然之心」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.Itan=§2...In that hope,and in myself.
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.Itan.desc=Got a slashblade §2Itan Mogeko's blade
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.keyuanzhang=我还可以再喝一百年
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.keyuanzhang.desc=Got a slashblade §f柯院长的刀
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.SolemnLament=§rWhere does one go when we die？
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.SolemnLament.desc=Got a slashblade §rSOLEMN LAMENT
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.shallotNeo=§bTHE MIKU IN YOUR HAND~~~
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.shallotNeo.desc=Got a slashblade §2Hyper shallot
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.yamatoPowerNeo=§bI'm the storm that is APPROOOOOOoooooooaching!
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.yamatoPowerNeo.desc=Got a slashblade §bYAMATOOo!!!
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.mirageEdge=§bGO TO HELL!
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.mirageEdge.desc=Got a slashblade §bMirageEdge
+
+#亵渎之罚
+
+death.attack.Youknowtherules=%s was backfired because it used two mutually exclusive minds at the same time
