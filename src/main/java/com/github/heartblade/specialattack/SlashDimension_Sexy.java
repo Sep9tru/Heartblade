@@ -53,7 +53,7 @@ public class SlashDimension_Sexy extends SpecialAttackBase implements IJustSpeci
                             player.addPotionEffect(new PotionEffect(1, 35, 12, true));
                             player.addPotionEffect(new PotionEffect(14, 35, 3, true));
                             player.addPotionEffect(new PotionEffect(15, 30, 0, true));
-                            ggg.setFoodLevel(1);
+                            player.addExhaustion(150.0F);
                             ItemSlashBlade blade = (ItemSlashBlade) stack.getItem();
                             float baseModif = blade.getBaseAttackModifiers(tag);
                             int level = EnchantmentHelper.getEnchantmentLevel(Enchantment.power.effectId, stack);
