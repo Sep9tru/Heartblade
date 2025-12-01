@@ -110,7 +110,7 @@ public class desireblade {
                     'O', new ItemStack(Items.bed),
                     'Q', new ItemStack(Items.blaze_rod),
                     'R', SlashBlade.getCustomBlade(name3),
-                    'B', reqiredBlade,
+                    'S', reqiredBlade,
                     'Z', sphere});
             SlashBlade.addRecipe("desireblade", recipe);
         }
