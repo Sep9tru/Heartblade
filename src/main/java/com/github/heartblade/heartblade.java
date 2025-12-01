@@ -13,7 +13,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 @Mod(
         modid = "heartblade",
         name = "heartblade",
-        version = "1.5.0_hotfix1",
+        version = "1.5.0_hotfix3",
         dependencies = "required-after:flammpfeil.slashblade"
 )
 public class heartblade {
