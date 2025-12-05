@@ -1,21 +1,22 @@
-## TemplateDevEnv
-_For Kotlin see [TemplateDevEnvKt](https://github.com/CleanroomMC/TemplateDevEnvKt)_
+概述
 
-Template workspace for modding Minecraft 1.12.2. Licensed under MIT, it is made for public use.
+这是一款内容量较多的拔刀剑附属，属于把各种巨人的肩膀缝合在一起的作品，记忆线拔刀的原型是一些 UP 主。 
 
-This template runs on Java 21! Currently utilizies **Gradle 8.12** + **[RetroFuturaGradle](https://github.com/GTNewHorizons/RetroFuturaGradle) 1.4.1** + **Forge 14.23.5.2847**.
+10 多张唱片的音频占了模组的大半空间，在1.12.2版本修改了唱片的获取方式：击杀指定怪物有百分之一的概率掉落
 
-With **coremod and mixin support** that is easy to configure.
+联动
 
-### Instructions:
+目前合成表可以与尼格洛兹·无尽曈曚：非官方版、拔刀剑日系附属包、Cyclic联动。
+自然之心以及卓越刀在安装了尼格洛兹·无尽曈曚：非官方版时，新生成的刀的永恒SE会变为神谕
 
-1. Click `use this template` at the top.
-2. Clone the repository that you have created with this template to your local machine.
-3. Make sure IDEA is using Java 21 for Gradle before you sync the project. Verify this by going to IDEA's `Settings > Build, Execution, Deployment > Build Tools > Gradle > Gradle JVM`.
-4. Open the project folder in IDEA. When prompted, click "Load Gradle Project" as it detects the `build.gradle`, if you weren't prompted, right-click the project's `build.gradle` in IDEA, select `Link Gradle Project`, after completion, hit `Refresh All` in the gradle tab on the right.
-5. Run gradle tasks such as `runClient` and `runServer` in the IDEA gradle tab, or use the auto-imported run configurations like `1. Run Client`.
+借物表
 
-### Notes:
-- Dependencies script in [gradle/scripts/dependencies.gradle](gradle/scripts/dependencies.gradle), explanations are commented in the file.
-- Publishing script in [gradle/scripts/publishing.gradle](gradle/scripts/publishing.gradle).
-- When writing Mixins on IntelliJ, it is advisable to use latest [MinecraftDev Fork for RetroFuturaGradle](https://github.com/eigenraven/MinecraftDev/releases).
+此拔刀附属定义为非原创/半原创 MOD。 
+
+NegoreRouse—尼格洛茨（及其非官方重置）：借用了拔刀模板、模型和贴图，以及大量有关 SE 的代码； 
+
+大牛的SA：冰晶模型； 
+
+阎魔刀的模型。
+
+
