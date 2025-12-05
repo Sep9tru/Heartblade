@@ -1,0 +1,57 @@
+{
+    "oldrecord":{
+        "category":"record",
+        "subtitle":"record.sing_r_sing",
+        "sounds":[{"name":"heartblade:oldrecord","stream":true}]
+    },
+    "oldrecord_1":{
+        "category":"record",
+        "subtitle":"record.after_school",
+        "sounds":[{"name":"heartblade:oldrecord_1","stream":true}]
+    },
+    "chaosrecord":{
+        "category":"record",
+        "subtitle":"record.hopes_and_dreams",
+        "sounds":[{"name":"heartblade:chaosrecord","stream":true}]
+    },
+    "corruptrecord":{
+        "category":"record",
+        "subtitle":"record.that_days_time_machine",
+        "sounds":[{"name":"heartblade:corruptrecord","stream":true}]
+    },
+    "dustyrecord":{
+        "category":"record",
+        "subtitle":"record.plz_dont_go",
+        "sounds":[{"name":"heartblade:dustyrecord","stream":true}]
+    },
+    "icedrecord":{
+        "category":"record",
+        "subtitle":"record.himeka",
+        "sounds":[{"name":"heartblade:icedrecord","stream":true}]
+    },
+    "sunriserecord":{
+        "category":"record",
+        "subtitle":"record.shine",
+        "sounds":[{"name":"heartblade:sunriserecord","stream":true}]
+    },
+    "orangerecord":{
+        "category":"record",
+        "subtitle":"record.letter_that_writing_in_the_wind",
+        "sounds":[{"name":"heartblade:orangerecord","stream":true}]
+    },
+    "oursrecord": {
+        "category": "record",
+        "subtitle": "record.sweet_track",
+        "sounds": [{"name": "heartblade:oursrecord","stream": true}]
+    },
+    "precord": {
+        "category": "record",
+        "subtitle": "record.take_a_walk",
+        "sounds": [{"name": "heartblade:precord","stream": true}]
+    },
+    "precord_1": {
+        "category": "record",
+        "subtitle": "record.feathers",
+        "sounds": [{"name": "heartblade:precord_1","stream": true}]
+    }
+}

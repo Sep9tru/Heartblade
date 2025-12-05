@@ -1,0 +1,201 @@
+###############################
+#ZH_CN中文汉化文档By:Moflop   #
+#牢大为什么要起这么中二的名字，GPT都不知道怎么翻英文了
+###############################
+
+#刀之铭
+
+item.moflop.slashblade.ananke.name=§e「The Judgment Of Cosmos」§6Fateful Star · Ananke
+item.moflop.slashblade.antauge.name=§a「Creeping Dark Light」§6Antauge
+item.moflop.slashblade.nyx.name=§d「The Fleeting Sky」§6Fusion Star · Nyx
+item.moflop.slashblade.chaos.name=§4「The Cosmic Mystery」§6Chaos
+item.moflop.slashblade.deligun.name=§b「Sacred Covenant」§6Deligun
+item.moflop.slashblade.tartarus.name=§4「Lock Of Abyss」§6Tartarus
+item.moflop.slashblade.artemis.name=§1「Shadow Moon」§6Artemis
+item.moflop.slashblade.artemis_s.name=§a「Clear Moon」§6Artemis
+item.moflop.slashblade.hercules.name=§e「Shining Star」§6Hercules
+item.moflop.slashblade.nier.name=§f「Eternal Spinning Spear」§6Nier
+item.moflop.slashblade.chronos.name=§7「Eternal Time Gear · The All Sin Spear」§6Aeon
+item.moflop.slashblade.chronos_ae.name=§4「Eternity」§6Chronos
+item.moflop.slashblade.chronos_sy.name=§b「The First Spear」§6Chronos
+item.moflop.slashblade.erebus.name=§8「The Fading Dark」§6Erebus
+item.moflop.slashblade.chronosn.name=§c「The Lord Of The Eternal」§6Chronos
+item.moflop.slashblade.protogenoi.name=§5「The Origin」§6Protogenoi
+item.moflop.negorerouse.nrSlashBlade.name=§0「None · The Nameless One」§6Damaged God's Relic
+
+#物之铭
+
+item.nrSoul.name=God‘s Soul
+
+
+#物之言
+
+aritemis=Artemis
+aritemis.SE=Oracle Ⅰ
+chronos=Chronos
+chronos.SE=Oracle Ⅰ
+hercules=Hercules
+hercules.SE=Oracle Ⅰ
+soulMix=Protogenoi
+soulMix.SE=Absolute PowerⅠ
+erebus=Erebus
+erebus.SE=Negative PowerⅠ
+fate=Ananke
+fate.SE=Fate Ⅰ
+tartarus=Tartarus
+tartarus.SE=Lock Ⅰ
+chaos=Chaos
+chaos.SE=Oracle Ⅰ
+
+
+
+#神之裁
+flammpfeil.slashblade.specialattack.BurningFireSA=§4§lAbsolute ·「The Flame Wave of Scorching Inferno」
+flammpfeil.slashblade.specialattack.MagneticStormSword=§a§lMagnet Storm Phantom Sword - Prototype
+flammpfeil.slashblade.specialattack.DivineCrossSA=§f§lBreak ·「The Daylight Of The Shadowless Sky」
+flammpfeil.slashblade.specialattack.Zenith12th=§6§lDecision · Zenith Twelve Slash
+flammpfeil.slashblade.specialattack.ExcessBlade=§6§lFinale ·「Critical Drive」
+flammpfeil.slashblade.specialattack.OverTheHorizon=§b§lSora · 「Parallel Lines Of The Weaving Space Dimension」
+flammpfeil.slashblade.specialattack.CosmicLine=§5§lExtreme · 「The Sky Boundary Line of The Quasar」
+
+#刀之技
+
+slashblade.seffect.name.oracle=§a§lOracle
+slashblade.seffect.name.burstDrive=§7§lBurst Drive
+slashblade.seffect.name.reversePower=§7§lNegative Power
+slashblade.seffect.name.absolutePower=§a§lAbsolute Power
+slashblade.seffect.name.back=§c§lReverse
+slashblade.seffect.name.purgatory=§4§lLock
+slashblade.seffect.name.clear=§b§lClear
+slashblade.seffect.name.instKill=§7§l「EMPTY」
+slashblade.seffect.name.eternity=§4§k9125§6§lEternity§4§k9521
+slashblade.seffect.name.fate=§6§lFate
+slashblade.seffect.name.deadlock=§c§lLock
+slashblade.seffect.name.phantom=§5§lPhantom
+
+
+#其他
+
+itemGroup.nrItem=God's Relic
+moflop.info.negoreRouse=God
+
+#代码	官方名称
+#MOTD代码
+#§0	黑色	\u00A70
+#§1	深蓝色	\u00A71
+#§2	深绿色	\u00A72
+#§3	湖蓝色	\u00A73
+#§4	深红色	\u00A74
+#§5	紫色	\u00A75
+#§6	金色	\u00A76
+#§7	灰色	\u00A77
+#§8	深灰色	\u00A78
+#§9	蓝色	\u00A79
+#§a	绿色	\u00A7a
+#§b	天蓝色	\u00A7b
+#§c	红色	\u00A7c
+#§d	粉红色	\u00A7d
+#§e	黄色	\u00A7e
+#§f	白色	\u00A7f
+#§k	随机字符	\u00A7k
+#§l	粗体	\u00A7l
+#§m	删除线	\u00A7m
+#§n	下划线	\u00A7n
+#§o	斜体	\u00A7o
+#§r	重置	\u00A7r
+#\n	换行	\n
+
+
+#附魔等级补全
+
+enchantment.level.11=XI
+enchantment.level.12=XII
+enchantment.level.13=XIII
+enchantment.level.14=XIV
+enchantment.level.15=XV
+enchantment.level.16=XVI
+enchantment.level.17=XVII
+enchantment.level.18=XVIII
+enchantment.level.19=XIX
+enchantment.level.20=XX
+enchantment.level.21=XXI
+enchantment.level.22=XXII
+enchantment.level.23=XXIII
+enchantment.level.24=XXIV
+enchantment.level.25=XXV
+enchantment.level.26=XXVI
+enchantment.level.27=XXVII
+enchantment.level.28=XXVIII
+enchantment.level.29=XXIX
+enchantment.level.30=XXX
+enchantment.level.31=XXXI
+enchantment.level.32=XXXII
+enchantment.level.33=XXXIII
+enchantment.level.34=XXXIV
+enchantment.level.35=XXXV
+enchantment.level.36=XXXVI
+enchantment.level.37=XXXVII
+enchantment.level.38=XXXVIII
+enchantment.level.39=XXXIX
+enchantment.level.40=XL
+enchantment.level.41=XLI
+enchantment.level.42=XLII
+enchantment.level.43=XLIII
+enchantment.level.44=XLIV
+enchantment.level.45=XLV
+enchantment.level.46=XLVI
+enchantment.level.47=XLVII
+enchantment.level.48=XLVIII
+enchantment.level.49=XLIX
+enchantment.level.50=L
+enchantment.level.51=LI
+enchantment.level.52=LII
+enchantment.level.53=LIII
+enchantment.level.54=LIV
+enchantment.level.55=LV
+enchantment.level.56=LVI
+enchantment.level.57=LVII
+enchantment.level.58=LVIII
+enchantment.level.59=LIX
+enchantment.level.60=LX
+enchantment.level.61=LXI
+enchantment.level.62=LXII
+enchantment.level.63=LXIII
+enchantment.level.64=LXIV
+enchantment.level.65=LXV
+enchantment.level.66=LXVI
+enchantment.level.67=LXVII
+enchantment.level.68=LXVIII
+enchantment.level.69=LXIX
+enchantment.level.70=LXX
+enchantment.level.71=LXXI
+enchantment.level.72=LXXII
+enchantment.level.73=LXXIII
+enchantment.level.74=LXXIV
+enchantment.level.75=LXXV
+enchantment.level.76=LXXVI
+enchantment.level.77=LXXVII
+enchantment.level.78=LXXVIII
+enchantment.level.79=LXXIX
+enchantment.level.80=LXXX
+enchantment.level.81=LXXXI
+enchantment.level.82=LXXXII
+enchantment.level.83=LXXXIII
+enchantment.level.84=LXXXIV
+enchantment.level.85=LXXXV
+enchantment.level.86=LXXXVI
+enchantment.level.87=LXXXVII
+enchantment.level.88=LXXXVIII
+enchantment.level.89=LXXXIX
+enchantment.level.90=XC
+enchantment.level.91=XCI
+enchantment.level.92=XCII
+enchantment.level.93=XCIII
+enchantment.level.94=XCIV
+enchantment.level.95=XCV
+enchantment.level.96=XCVI
+enchantment.level.97=XCVII
+enchantment.level.98=XCVIII
+enchantment.level.99=XCIX
+enchantment.level.100=C
+
