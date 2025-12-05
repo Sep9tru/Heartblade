@@ -17,5 +17,3 @@ NegoreRouse——尼格洛茨：借用了拔刀模板、模型和贴图，以及
 万物皆可为兵刃Allweapon：蝴蝶幻影剑的代码；
 大牛的SA：有关chaos斩，雷电庇护所，冰晶的代码；
 阎魔刀以及虚空大剑的模型。
-
-https://github.com/CleanroomMC/ForgeDevEnv?tab=readme-ov-file
