@@ -19,4 +19,6 @@ NegoreRouse—尼格洛茨（及其非官方重置）：借用了拔刀模板、
 
 阎魔刀的模型。
 
+https://github.com/CleanroomMC/ForgeDevEnv?tab=readme-ov-file
+
 
