@@ -1,0 +1,248 @@
+﻿
+itemGroup.heartblade=§2§l心之所向
+
+#诸神之铭
+
+item.flammpfeil.slashblade.named.desireblade.name=「欲望」
+
+item.flammpfeil.slashblade.named.dguoblade.name=§4魔剑§9「帝国」
+
+item.flammpfeil.slashblade.named.iceblade.name=§f聚魂大剑§6「§b寒冰§6」
+
+item.flammpfeil.slashblade.named.justiceGun.name=§4「正义」
+
+item.flammpfeil.slashblade.named.matongcblade.name=§3惊涛宝剑§b「閁统」
+
+item.flammpfeil.slashblade.named.nobleblade.name=§6卓越刀
+
+item.flammpfeil.slashblade.named.xiaochaoblade.name=§6圣晓剑「超越」
+
+item.flammpfeil.slashblade.named.xiaohuangOrArui.name=§e日刀§6「§c晓煌§6」
+
+item.flammpfeil.slashblade.named.yunxingheblade.name=§f云刀§e「§b星河§e」
+
+item.flammpfeil.slashblade.named.ziminblade.name=§8冥刀§a「自然之心」
+
+item.flammpfeil.slashblade.named.Itan.name=§2异端刀
+
+item.flammpfeil.slashblade.named.SolemnLament.name=§r圣宣
+
+item.flammpfeil.slashblade.named.keyuanzhang.name=§f柯院长的刀
+
+item.flammpfeil.slashblade.named.shallot.name=§2超级大葱[需更新]
+
+item.flammpfeil.slashblade.named.shallotNeo.name=§2超级大葱
+
+item.flammpfeil.slashblade.named.yamatoPower.name=§b魔剑「阎魔刀」[需更新]
+
+item.flammpfeil.slashblade.named.yamatoPowerNeo.name=§b魔剑「阎魔刀」
+
+item.flammpfeil.slashblade.named.vanity.name=§7§l极夜风暴「虚荣」
+
+item.flammpfeil.slashblade.named.voidSword.name=§b虚空大剑
+
+item.flammpfeil.slashblade.named.mirageEdge.name=§b魅影刃
+
+item.flammpfeil.slashblade.named.wonderblade.name=奇迹部件X
+
+item.flammpfeil.slashblade.named.maxkimblade.name=§c§l基姆重工
+
+#诸神之意志
+
+slashblade.seffect.name.Breakeverything=§9§l打破一切
+
+slashblade.seffect.name.charges=§a§l续航塔
+
+slashblade.seffect.name.Extremelycold=§1§l寒§b§l剑
+
+slashblade.seffect.name.GodsBlade=§6§l神之刄
+
+slashblade.seffect.name.NeverCheat=§4§l永不作弊
+
+slashblade.seffect.name.PhysicalAttack=§8§l物理系
+
+slashblade.seffect.name.PhysicalAttackS=§8§l物理系
+
+slashblade.seffect.name.Remodeling=§f§l永恒
+
+slashblade.seffect.name.Sky_9=§f§l极限天
+
+slashblade.seffect.name.sprint=§e§l极速
+
+slashblade.seffect.name.maximumDrive=§c§l极限
+
+slashblade.seffect.name.strength=§7§l实力
+
+slashblade.seffect.name.Superme=§6§l超级自我
+
+slashblade.seffect.name.Theholylightshines=§e§l圣光照耀
+
+slashblade.seffect.name.ToRavage=§2§l蹂躏
+
+slashblade.seffect.name.Wuqiufeng=§3§l秋风袭来
+
+slashblade.seffect.name.Yearn=§5§l渴望
+
+slashblade.seffect.name.cordial=§2§l「诚」
+
+slashblade.seffect.name.SolemnLament=庄严哀悼
+
+slashblade.seffect.name.VOID=§l绝对虚无
+
+slashblade.seffect.name.VergilShadow=§b§lSlayAll
+
+slashblade.seffect.name.powerLocked=§8力量封锁
+
+slashblade.seffect.name.void_ek=§b虚空具现化
+
+#诸神之技
+
+flammpfeil.slashblade.specialattack.Slashdimension_Sexy=§b次元斩
+
+flammpfeil.slashblade.specialattack.autumnWind=§a秋风幻影剑
+
+flammpfeil.slashblade.specialattack.CutEnd=§b次元斩§f·§4绝 §7§l[§a§lTEST§7§l]
+
+flammpfeil.slashblade.specialattack.maximumbethyper=§b幻影刃-重
+#信徒之纸张
+
+tile.wonderReactor.name=老旧的下界之星核心模块
+
+tile.wonderReactor_Neo.name=奇迹反应核
+
+item.whiteButterfly.name=白色蝴蝶标本
+
+#古老回音
+
+item.oldrecord.name=怀旧唱片
+
+item.record.Old.desc=幼女幻奏 - Sing, R. Sing! (シンクレア民族音楽工房)
+
+item.oldrecord2.name=怀旧唱片
+
+item.record.Old2.desc=放課後 - 渡辺 剛 (わたなべ たけし)
+
+item.chaosrecord.name=混沌唱片
+
+item.record.Hopes And Dreams.desc=Hopes And Dreams - Toby Fox
+
+item.corruptrecord.name=腐化的唱片
+
+item.record.Corrupt.desc=あの日タイムマシン - Long Shot Party (ロング・ショット・パーティー)
+
+item.dustyrecord.name=积灰的唱片
+
+item.record.Please Dont Go.desc=Please Don't Go - Joel Adams
+
+item.icedrecord.name=冰蓝唱片
+
+item.record.Ice.desc=明日へのキズナ - HIMEKA (ヒメカ)
+
+item.nullrecord.name=日落唱片
+
+item.record.Shine (Original Mix).desc=Shine (Original Mix) - Spektrem
+
+item.orangerecord.name=橙色唱片
+
+item.record.Letter That Writing in the Wind.desc=Letter That Writing in the Wind - July (줄라이)
+
+item.oursrecord.name=我们的唱片
+
+item.record.SweetTrack.desc=Sweet Track - やなぎなぎ (柳凪)
+
+item.precord.name=工程文件
+
+item.record.Take a Walk [A Cappella].desc=Take a Walk [A Cappella] - AaronicStuff
+
+item.precord2.name=工程文件
+
+item.record.Feathers.desc=Feathers - Archie
+
+#诸神幻影
+
+item.flammpfeil.slashblade.named.phantomOfGods.name=§7§n§m诸神幻影
+
+slashblade.seffect.name.DarkPower=黯淡神力
+
+enchantment.level.13=§8「§7失落级§8」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.phantomOfGods=§8时代的陨落
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.phantomOfGods.desc=§7传说，有一位为守护记忆的骑士...
+
+#诸神的话语
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.desireblade=§5生！生死！！禁欲！
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.desireblade.desc=获得拔刀「欲望」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.dguoblade=§lCYBERPUNK2013
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.dguoblade.desc=获得拔刀 §4魔剑§9「帝国」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.iceblade=§8愿你我都将不再悲伤
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.iceblade.desc=获得拔刀 §1聚魂大剑§6「§b寒冰§6」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.justiceGun=§4血泪
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.justiceGun.desc=获得拔刀§4「正义」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.matongcblade=§9马桶中的战斗桶
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.matongcblade.desc=获得拔刀 §3惊涛宝剑§b「閁统」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.nobleblade=如果MC能穿越时空
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.nobleblade.desc=获得拔刀 §6卓越刀
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.xiaochaoblade=§6弘扬不科学游戏观，坚持无节操解说一百年
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.xiaochaoblade.desc=获得拔刀 §6圣晓剑「超越」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.xiaohuangOrArui=§8我们仍然会等候您的归来
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.xiaohuangOrArui.desc=获得拔刀 §e日刀§6「§c晓煌§6」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.yunxingheblade=§e此生无悔圣光
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.yunxingheblade.desc=获得拔刀 §f云刀§e「§b星河§e」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.ziminblade=§a保护大自然，保护生态环境
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.ziminblade.desc=获得拔刀 §8冥刀§a「自然之心」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.Itan=§2誓死都要保护!
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.Itan.desc=获得拔刀 §2异端武士刀
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.keyuanzhang=我还可以再喝一百年
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.keyuanzhang.desc=获得拔刀 §f柯院长的刀
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.SolemnLament=§r人死后将去往何方？
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.SolemnLament.desc=获得拔刀 §r圣宣
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.shallotNeo=§b骑士团
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.shallotNeo.desc=获得拔刀 §2大葱
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.yamatoPowerNeo=§bI'm the storm that is APPROOOOOOoooooooaching!
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.yamatoPowerNeo.desc=获得拔刀 §b魔剑「阎魔刀」
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.mirageEdge=§bGO TO HELL!
+
+achievement.flammpfeil.slashblade.flammpfeil.slashblade.named.mirageEdge.desc=获得拔刀 §b魅影刃
+
+#亵渎之罚
+
+death.attack.Youknowtherules=%s 因为同时使用两种相互排斥的心智而被反噬
+
+
+
+
+
+
+
