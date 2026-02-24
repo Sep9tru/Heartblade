@@ -93,6 +93,16 @@ public class nobleblade {
                     });
             SlashBlade.addRecipe("nobleblade", recipe);
         }else{
+
+            NBTTagCompound displayTagX = new NBTTagCompound();
+            materialBladeX.setTagInfo("display", displayTagX);
+            NBTTagList loreListX = new NBTTagList();
+            loreListX.appendTag(new NBTTagString("§r"));
+            loreListX.appendTag(new NBTTagString("§7“用于合成奇迹武器的重要部件。”"));
+            loreListX.appendTag(new NBTTagString("§6该刀合成时不会继承奇迹部件X的属性"));
+            loreListX.appendTag(new NBTTagString("§6而是继承另一个材料刀"));
+            displayTagX.setTag("Lore", loreListX);
+
             NBTTagCompound reqTag = ItemSlashBlade.getItemTagCompound(materialBladeM);
             ItemHbSlashBlade.CurrentItemName.set(reqTag, materialNameM);
             ItemSlashBlade.TextureName.set(reqTag, "BalkonDiamond");
@@ -101,7 +111,7 @@ public class nobleblade {
             materialBladeM.addEnchantment(Enchantments.UNBREAKING, 3);
 
             IRecipe recipe = new HbRecipeBlade(new ResourceLocation(heartblade.MODID, "nobleblade"),
-                    finalblade, materialBladeX,
+                    finalblade, materialBladeM,
                     new Object[]{
                             "123",
                             "4M4",

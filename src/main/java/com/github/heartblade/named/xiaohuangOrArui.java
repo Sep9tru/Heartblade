@@ -64,16 +64,17 @@ public class xiaohuangOrArui {
         ItemStack finalblade = BladeUtils.findItemStack(heartblade.MODID, name, 1);
         ItemStack materialBladeX = BladeUtils.findItemStack(heartblade.MODID, materialNameX, 1);
         ItemStack materialBladeM = SlashBlade.findItemStack("flammpfeil.slashblade", "slashbladeWrapper", 1);
+        ItemStack materialBladeMS = SlashBlade.findItemStack("flammpfeil.slashblade", "slashbladenamed", 1);
         ItemStack soul = BladeUtils.findItemStack("flammpfeil.slashblade", "tiny_bladesoul", 1);
         if(Loader.isModLoaded("slashblade_addon")) {
 
-            NBTTagCompound reqTag = ItemSlashBlade.getItemTagCompound(materialBladeM);
+            NBTTagCompound reqTag = ItemSlashBlade.getItemTagCompound(materialBladeMS);
             ItemHbSlashBlade.CurrentItemName.set(reqTag, "flammpfeil.slashblade.named.kamuy.fire");
             ItemSlashBlade.TextureName.set(reqTag, "named/kamuy/fire");
             ItemSlashBlade.ModelName.set(reqTag, "named/kamuy/kamuy");
             ItemSlashBlade.RepairCount.set(reqTag, 35);
             ItemSlashBlade.ProudSoul.set(reqTag, 1000);
-            materialBladeM.addEnchantment(Enchantments.UNBREAKING, 3);
+            materialBladeMS.addEnchantment(Enchantments.UNBREAKING, 3);
 
             IRecipe recipe = new HbRecipeBlade(new ResourceLocation(heartblade.MODID,"xiaohuangOrArui"),
                     finalblade,materialBladeX,
@@ -87,20 +88,32 @@ public class xiaohuangOrArui {
                             '4', new ItemStack(Items.BLAZE_ROD),
                             '5', new ItemStack(Items.DIAMOND_BOOTS),
                             'X', materialBladeX,
-                            'M', materialBladeM
+                            'M', materialBladeMS
                     });
             SlashBlade.addRecipe("xiaohuangOrArui", recipe);
         }else{
+
+            NBTTagCompound displayTagX = new NBTTagCompound();
+            materialBladeX.setTagInfo("display", displayTagX);
+            NBTTagList loreListX = new NBTTagList();
+            loreListX.appendTag(new NBTTagString("§r"));
+            loreListX.appendTag(new NBTTagString("§7“用于合成奇迹武器的重要部件。”"));
+            loreListX.appendTag(new NBTTagString("§6该刀合成时不会继承奇迹部件X的属性"));
+            loreListX.appendTag(new NBTTagString("§6而是继承另一个材料刀"));
+            displayTagX.setTag("Lore", loreListX);
+
             NBTTagCompound reqTag = ItemSlashBlade.getItemTagCompound(materialBladeM);
             ItemHbSlashBlade.CurrentItemName.set(reqTag, materialNameM);
             ItemSlashBlade.TextureName.set(reqTag, "BalkonDiamond");
             ItemSlashBlade.ModelName.set(reqTag, "BalkonDiamond");
-            ItemSlashBlade.RepairCount.set(reqTag, 35);
-            ItemSlashBlade.ProudSoul.set(reqTag, 1000);
+            ItemSlashBlade.KillCount.set(reqTag, 1000);
+            ItemSlashBlade.ProudSoul.set(reqTag, 23333);
             materialBladeM.addEnchantment(Enchantments.UNBREAKING, 3);
+            materialBladeM.addEnchantment(Enchantments.FIRE_ASPECT, 2);
+            materialBladeM.addEnchantment(Enchantments.FIRE_PROTECTION, 4);
 
             IRecipe recipe = new HbRecipeBlade(new ResourceLocation(heartblade.MODID, "xiaohuangOrArui"),
-                    finalblade,materialBladeX,
+                    finalblade,materialBladeM,
                     new Object[]{
                             "123",
                             "4M4",

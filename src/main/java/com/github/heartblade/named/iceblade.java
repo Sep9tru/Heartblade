@@ -22,6 +22,7 @@ import net.minecraft.nbt.NBTTagList;
 import net.minecraft.nbt.NBTTagString;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.oredict.ShapedOreRecipe;
 
 public class iceblade {
     String name = "heartblade.named.iceblade";
@@ -62,20 +63,29 @@ public class iceblade {
 
         ItemStack finalblade = BladeUtils.findItemStack(heartblade.MODID, name, 1);
         ItemStack materialBladeX = BladeUtils.findItemStack(heartblade.MODID, materialNameX, 1);
-        ItemStack materialBladeM = SlashBlade.findItemStack("flammpfeil.slashblade", "slashbladeWrapper", 1);
+        ItemStack materialBladeM = new ItemStack(SlashBlade.wrapBlade);
         ItemStack Soul = BladeUtils.findItemStack("flammpfeil.slashblade", "sphere_bladesoul", 1);
+
+        NBTTagCompound displayTagX = new NBTTagCompound();
+        materialBladeX.setTagInfo("display", displayTagX);
+        NBTTagList loreListX = new NBTTagList();
+        loreListX.appendTag(new NBTTagString("§r"));
+        loreListX.appendTag(new NBTTagString("§7“用于合成奇迹武器的重要部件。”"));
+        loreListX.appendTag(new NBTTagString("§6该刀合成时不会继承奇迹部件X的属性"));
+        loreListX.appendTag(new NBTTagString("§6而是继承另一个材料刀"));
+        displayTagX.setTag("Lore", loreListX);
 
         NBTTagCompound reqTag = ItemSlashBlade.getItemTagCompound(materialBladeM);
         ItemHbSlashBlade.CurrentItemName.set(reqTag, materialNameM);
         ItemSlashBlade.TextureName.set(reqTag, "BalkonDiamond");
         ItemSlashBlade.ModelName.set(reqTag, "BalkonDiamond");
-        ItemSlashBlade.ProudSoul.set(reqTag, 1000);
-        ItemSlashBlade.RepairCount.set(reqTag, 23);
+        ItemSlashBlade.KillCount.set(reqTag, 1000);
+        ItemSlashBlade.ProudSoul.set(reqTag, 99999);
         materialBladeM.addEnchantment(Enchantments.FIRE_PROTECTION, 4);
         materialBladeM.addEnchantment(Enchantments.UNBREAKING, 3);
 
         IRecipe recipe = new HbRecipeBlade(new ResourceLocation(heartblade.MODID,"iceblade"),
-                finalblade,materialBladeX,
+                finalblade,materialBladeM,
                 new Object[]{
                         "123",
                         "4M4",
